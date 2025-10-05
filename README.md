@@ -18,12 +18,7 @@ A simple Android app built with Kotlin and Jetpack Compose that displays inspira
 </div>
 
 ### Demo Video
-<div align="center">
-  <video width="300" controls>
-    <source src="assests/screen_recording.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+[📹 Watch App Demo](https://drive.google.com/file/d/1tuWaGoYVct0t26E3P1cc4_M8bzJ8gVJo/view?usp=sharing)
 
 The app has two main screens:
 - **Main Screen**: Shows a random quote with options to get next quote, save to favorites, or view favorites
